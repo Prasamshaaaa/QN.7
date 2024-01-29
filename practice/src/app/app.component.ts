@@ -17,7 +17,7 @@ interface Post {
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  title = 'ng-client';
+  title = 'practice';
   posts: Post[] = [];
   errorMessage!: string;
 
